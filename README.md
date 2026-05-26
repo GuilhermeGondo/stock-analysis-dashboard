@@ -23,7 +23,7 @@ Interactive stock analysis dashboard built with Python, Streamlit, and Yahoo Fin
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
+(Dash_Fin.png)
 
 ## Run Locally
 
