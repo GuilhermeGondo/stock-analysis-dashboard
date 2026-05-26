@@ -21,9 +21,6 @@ Interactive stock analysis dashboard built with Python, Streamlit, and Yahoo Fin
 - Pandas
 - yFinance
 
-## Dashboard Preview
-
-(Dash_Fin.png)
 
 ## Run Locally
 
